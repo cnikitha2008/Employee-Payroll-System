@@ -1,0 +1,75 @@
+EmployeeID,Name,Age,Gender,Department,Designation,Phone,Email,BasicSalary
+1001,Aarav Sharma,25,Male,Software Development,Senior Software Engineer,9876501001,aarav.sharma@techcorp.com,65000
+1002,Ananya Reddy,26,Female,Software Development,Software Engineer,9876501002,ananya.reddy@techcorp.com,60000
+1003,Rohan Kumar,29,Male,Software Development,Senior Software Engineer,9876501003,rohan.kumar@techcorp.com,85000
+1004,Sneha Patel,27,Female,Software Development,Software Engineer,9876501004,sneha.patel@techcorp.com,65000
+1005,Vikram Singh,32,Male,Software Development,Technical Lead,9876501005,vikram.singh@techcorp.com,110000
+1006,Meera Nair,25,Female,Software Development,Software Engineer,9876501006,meera.nair@techcorp.com,58000
+1007,Aditya Rao,30,Male,Software Development,Senior Software Engineer,9876501007,aditya.rao@techcorp.com,90000
+1008,Kavya Iyer,28,Female,Software Development,Software Engineer,9876501008,kavya.iyer@techcorp.com,72000
+1009,Arjun Verma,35,Male,Software Development,Engineering Manager,9876501009,arjun.verma@techcorp.com,135000
+1010,Pooja Menon,26,Female,Software Development,Software Engineer,9876501010,pooja.menon@techcorp.com,62000
+1011,Rahul Das,31,Male,Software Development,Senior Software Engineer,9876501011,rahul.das@techcorp.com,95000
+1012,Divya Shah,24,Female,Software Development,Junior Software Engineer,9876501012,divya.shah@techcorp.com,48000
+1013,Kiran Joshi,33,Male,Software Development,Technical Lead,9876501013,kiran.joshi@techcorp.com,115000
+1014,Ishita Kapoor,29,Female,Software Development,Senior Software Engineer,9876501014,ishita.kapoor@techcorp.com,88000
+1015,Manish Gupta,27,Male,Software Development,Software Engineer,9876501015,manish.gupta@techcorp.com,68000
+1016,Nisha Rao,25,Female,Software Development,Junior Software Engineer,9876501016,nisha.rao@techcorp.com,50000
+1017,Siddharth Jain,34,Male,Software Development,Engineering Manager,9876501017,siddharth.jain@techcorp.com,140000
+1018,Tanvi Kulkarni,28,Female,Software Development,Software Engineer,9876501018,tanvi.kulkarni@techcorp.com,70000
+1019,Yash Thakur,30,Male,Software Development,Senior Software Engineer,9876501019,yash.thakur@techcorp.com,92000
+1020,Neha Bansal,27,Female,Software Development,Software Engineer,9876501020,neha.bansal@techcorp.com,66000
+1021,Akash Mehta,25,Male,Testing,QA Engineer,9876501021,akash.mehta@techcorp.com,52000
+1022,Sanjana Rao,28,Female,Testing,QA Engineer,9876501022,sanjana.rao@techcorp.com,58000
+1023,Vivek Nair,32,Male,Testing,Senior QA Engineer,9876501023,vivek.nair@techcorp.com,82000
+1024,Lakshmi Devi,26,Female,Testing,Test Engineer,9876501024,lakshmi.devi@techcorp.com,55000
+1025,Naveen Kumar,30,Male,Testing,Senior QA Engineer,9876501025,naveen.kumar@techcorp.com,85000
+1026,Aditi Shah,29,Female,Testing,QA Lead,9876501026,aditi.shah@techcorp.com,105000
+1027,Harish Reddy,27,Male,Testing,Test Engineer,9876501027,harish.reddy@techcorp.com,60000
+1028,Madhuri Iyer,31,Female,Testing,Senior QA Engineer,9876501028,madhuri.iyer@techcorp.com,88000
+1029,Suresh Patel,34,Male,Testing,QA Manager,9876501029,suresh.patel@techcorp.com,120000
+1030,Ritika Singh,25,Female,Testing,QA Engineer,9876501030,ritika.singh@techcorp.com,54000
+1031,Gaurav Verma,29,Male,Testing,Test Engineer,9876501031,gaurav.verma@techcorp.com,57000
+1032,Preeti Joshi,27,Female,Testing,QA Engineer,9876501032,preeti.joshi@techcorp.com,61000
+1033,Abhishek Das,33,Male,Testing,QA Lead,9876501033,abhishek.das@techcorp.com,108000
+1034,Swati Menon,30,Female,Testing,Senior QA Engineer,9876501034,swati.menon@techcorp.com,83000
+1035,Deepak Rao,26,Male,Testing,QA Engineer,9876501035,deepak.rao@techcorp.com,56000
+1036,Farah Khan,28,Female,Human Resources,HR Executive,9876501036,farah.khan@techcorp.com,50000
+1037,Nitin Sharma,32,Male,Human Resources,HR Manager,9876501037,nitin.sharma@techcorp.com,95000
+1038,Riya Kapoor,27,Female,Human Resources,Recruiter,9876501038,riya.kapoor@techcorp.com,52000
+1039,Sameer Gupta,29,Male,Human Resources,HR Executive,9876501039,sameer.gupta@techcorp.com,55000
+1040,Bhavana Reddy,34,Female,Human Resources,Senior HR Executive,9876501040,bhavana.reddy@techcorp.com,75000
+1041,Mohit Jain,31,Male,Human Resources,HR Manager,9876501041,mohit.jain@techcorp.com,100000
+1042,Anjali Nair,25,Female,Human Resources,Recruiter,9876501042,anjali.nair@techcorp.com,48000
+1043,Rakesh Verma,28,Male,Human Resources,HR Executive,9876501043,rakesh.verma@techcorp.com,54000
+1044,Shalini Shah,30,Female,Human Resources,Senior HR Executive,9876501044,shalini.shah@techcorp.com,78000
+1045,Tarun Singh,36,Male,Human Resources,HR Manager,9876501045,tarun.singh@techcorp.com,105000
+1046,Pallavi Iyer,26,Female,Human Resources,Recruiter,9876501046,pallavi.iyer@techcorp.com,51000
+1047,Ajay Kumar,33,Male,Finance & Accounts,Accountant,9876501047,ajay.kumar@techcorp.com,60000
+1048,Shruti Rao,29,Female,Finance & Accounts,Finance Executive,9876501048,shruti.rao@techcorp.com,65000
+1049,Vijay Menon,35,Male,Finance & Accounts,Finance Manager,9876501049,vijay.menon@techcorp.com,110000
+1050,Charan Patel,27,Male,Finance & Accounts,Accountant,9876501050,charan.patel@techcorp.com,58000
+1051,Divya Singh,31,Female,Finance & Accounts,Senior Accountant,9876501051,divya.singh@techcorp.com,78000
+1052,Ramesh Gupta,38,Male,Finance & Accounts,Finance Manager,9876501052,ramesh.gupta@techcorp.com,120000
+1053,Keerthi Rao,26,Female,Finance & Accounts,Finance Executive,9876501053,keerthi.rao@techcorp.com,62000
+1054,Sahil Sharma,30,Male,Finance & Accounts,Senior Accountant,9876501054,sahil.sharma@techcorp.com,80000
+1055,Maya Nair,28,Female,Finance & Accounts,Accountant,9876501055,maya.nair@techcorp.com,59000
+1056,Rohit Kapoor,34,Male,Sales & Marketing,Sales Executive,9876501056,rohit.kapoor@techcorp.com,52000
+1057,Simran Kaur,27,Female,Sales & Marketing,Marketing Executive,9876501057,simran.kaur@techcorp.com,56000
+1058,Varun Das,33,Male,Sales & Marketing,Sales Manager,9876501058,varun.das@techcorp.com,90000
+1059,Isha Verma,25,Female,Sales & Marketing,Marketing Executive,9876501059,isha.verma@techcorp.com,50000
+1060,Karthik Reddy,29,Male,Sales & Marketing,Sales Executive,9876501060,karthik.reddy@techcorp.com,55000
+1061,Nandini Shah,31,Female,Sales & Marketing,Marketing Manager,9876501061,nandini.shah@techcorp.com,95000
+1062,Aman Jain,28,Male,Sales & Marketing,Sales Executive,9876501062,aman.jain@techcorp.com,57000
+1063,Swetha Rao,26,Female,Sales & Marketing,Marketing Executive,9876501063,swetha.rao@techcorp.com,53000
+1064,Ravi Kumar,36,Male,Sales & Marketing,Sales Manager,9876501064,ravi.kumar@techcorp.com,98000
+1065,Komal Patel,29,Female,Sales & Marketing,Marketing Executive,9876501065,komal.patel@techcorp.com,58000
+1066,Pranav Singh,32,Male,Administration,Admin Executive,9876501066,pranav.singh@techcorp.com,50000
+1067,Reshma Nair,30,Female,Administration,Office Manager,9876501067,reshma.nair@techcorp.com,72000
+1068,Sanjay Verma,35,Male,Administration,Admin Manager,9876501068,sanjay.verma@techcorp.com,90000
+1069,Deepa Rao,27,Female,Administration,Admin Executive,9876501069,deepa.rao@techcorp.com,52000
+1070,Manoj Gupta,33,Male,Administration,Office Manager,9876501070,manoj.gupta@techcorp.com,75000
+1071,Padmini Shah,29,Female,Administration,Admin Executive,9876501071,padmini.shah@techcorp.com,54000
+1072,Lokesh Kumar,38,Male,Administration,Admin Manager,9876501072,lokesh.kumar@techcorp.com,95000
+1073,Harini Patel,26,Female,Administration,Admin Executive,9876501073,harini.patel@techcorp.com,51000
+1074,Srinivas Rao,34,Male,Administration,Office Manager,9876501074,srinivas.rao@techcorp.com,78000
